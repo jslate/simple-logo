@@ -1,10 +1,10 @@
 class Turtle
 
   def initialize
-    @x = 250
-    @y = 250
+    @x = 500
+    @y = 500
     @pen_down = false
-    @img = Rasem::SVGImage.new(500, 500)
+    @img = Rasem::SVGImage.new(1000, 1000)
   end
 
   def pen_down
