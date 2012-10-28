@@ -1,0 +1,16 @@
+GIT
+  remote: git://github.com/jslate/rasem.git
+  revision: a360e45511e52233cb1a16d91ef04529316ce2ac
+  ref: a360e45
+  specs:
+    rasem (0.6.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rasem (= 0.6.0)!
